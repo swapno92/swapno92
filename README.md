@@ -19,4 +19,4 @@
 
 ## Commit current status
 
-https://github-readme-streak-stats.herokuapp.com/?user=swapno92&theme=great-gatsby&hide_border=true&border_radius=00&date_format=j%20M[%20Y]&currStreakNum=F0DE36&background=45%2C000000FD%2C000000FB&border=EB5454&stroke=F0DE36&ring=FF9607&fire=EB0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=E45151&dates=F0DE36&excludeDaysLabel=F0DE36&fbclid=IwAR2ZOJmf0znPvVq7HYGFYEbHEiGYJ-Z66bX3MVDMC2UFXeV5SgWJ7u80u24
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swapno92&theme=great-gatsby&hide_border=true&border_radius=00&date_format=j%20M%5B%20Y%5D&currStreakNum=F0DE36&background=45%2C000000FD%2C000000FB&border=EB5454&stroke=F0DE36&ring=FF9607&fire=EB0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=E45151&dates=F0DE36&excludeDaysLabel=F0DE36)](https://git.io/streak-stats)
