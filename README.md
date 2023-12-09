@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on this page. 
 
-###Current Overview:
+### Current Overview:
 - 🔭 I’m currently - A Front-End developer with MERN Stack technologies
 - 🌱 I’m exploring - advanced Fronted and Backend Technologies.
 - 🤔 I’m looking for help with - Strategies for optimizing performance and efficiency in MERN stack applications
@@ -14,4 +14,4 @@
 - 👯 I’m looking - to collaborate on open source web development projects
 
 
-##💻 Technologies that I know
+## 💻 Technologies that I know
