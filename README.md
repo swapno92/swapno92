@@ -12,3 +12,6 @@
 - 🤔 I’m looking for help with - Strategies for optimizing performance and efficiency in MERN stack applications
 - 💬 Ask me about - Anything related to MERN stack development, I"m always up for a tech chat.
 - 👯 I’m looking - to collaborate on open source web development projects
+
+
+##💻 Technologies that I know
