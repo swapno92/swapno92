@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Swapno Dey
-#### I'm a Junior Front-End Developer with some Backend Knowledge
+## Hi there 👋, I'm Swapno Dey
+### I'm a Junior Front-End Developer with some Backend Knowledge
 
 
 **swapno92/swapno92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
