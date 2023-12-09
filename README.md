@@ -15,5 +15,5 @@
 
 
 ## 💻 Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,babel)](https://skillicons.dev)
 
