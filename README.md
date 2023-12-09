@@ -15,5 +15,5 @@
 
 
 ## 💻 Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,bootstrap,tailwind,html,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,bootstrap,tailwind,html,vite,figma)](https://skillicons.dev)
 
