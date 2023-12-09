@@ -15,4 +15,4 @@
 
 
 ## 💻 Technologies that I know
-[![My Skills](https://skillicons.dev/icons?js&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?js)](https://skillicons.dev)
