@@ -15,4 +15,4 @@
 
 
 ## 💻 Technologies that I know
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
