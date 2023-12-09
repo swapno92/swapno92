@@ -2,26 +2,13 @@
 ### I'm a Junior Front-End Developer with some Backend Knowledge
 ![I'm a Junior Front-End Developer with some Backend Knowledge](https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg))
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-
-
-
-
-**swapno92/swapno92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+###Current Overview:
+- 🔭 I’m currently - A Front-End developer with MERN Stack technologies
+- 🌱 I’m exploring - advanced Fronted and Backend Technologies.
+- 🤔 I’m looking for help with - Strategies for optimizing performance and efficiency in MERN stack applications
+- 💬 Ask me about - Anything related to MERN stack development, I"m always up for a tech chat.
+- 👯 I’m looking to collaborate on open source web development projects
