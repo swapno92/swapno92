@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Swapno Dey
 ### I'm a Junior Front-End Developer with some Backend Knowledge
-![I'm a Junior Front-End Developer with some Backend Knowledge](https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg))
+![I'm a Junior Front-End Developer with some Backend Knowledge]([https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg](https://i.ibb.co/DDmzK4D/202010.jpg)))
 
 
 
