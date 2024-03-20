@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Swapno Dey
 ### I'm a Junior Front-End Developer with some Backend Knowledge
-![I am GitHub Readme Generator's creator](https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/qsnd3Hh/banner.png)
 
 
 
